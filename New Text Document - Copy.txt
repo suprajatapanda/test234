@@ -1,0 +1,1899 @@
+.LinkColor1 {
+    color: #096da3;
+}
+
+.LinkColor1:hover {
+    color: #12014d;
+}
+.expcol-xs-10 {
+    font-size: small;
+}
+
+.expenseTableMarginTop {
+    margin-top: 5%;
+}
+
+.tabpanel {
+    display: none;
+}
+
+.tabpanel.active {
+   display: block;
+}
+
+.HealthLeftMargin {
+    margin-bottom: 4% !important;
+    width: 100%;
+    padding: 0;
+}
+
+.exppanel-body {
+    background-color: #23304D !important;
+    border-top-right-radius: 5px !important;
+    border-top-left-radius: 5px !important;
+    height: 77px !important;
+}
+
+.expbtn-toolbar a {
+    color: #fff !important;
+    font-size: 10px;
+}
+
+.expbtn-toolbar {
+    text-align: left !important;
+    font-size: 9px;
+    font-family: Verdana;
+}
+
+.userlineset {
+    text-decoration: underline !important;
+    cursor: pointer;
+}
+
+.cursorStyle {
+    cursor: pointer;
+}
+
+.expform-group {
+    background-color: #23304D !important;
+}
+
+.icon-addon.addon-lg .expform-control {
+    line-height: 1.33;
+    height: 36px;
+    font-size: 18px;
+    padding: 10px 10px 15px 30px;
+}
+
+.expicon-addon.addon-lg .fa,
+.expicon-addon.addon-lg .expglyphicon {
+    font-size: 18px !important;
+    margin-left: 0.5% !important;
+    left: 64%;
+    margin-top: -35px !important;
+    color: #036 !important;
+}
+
+.expicon-addon .expform-control {
+    border-radius: 0;
+}
+
+.expicon-addon {
+    position: relative;
+    color: #555;
+    display: block;
+}
+
+    .expicon-addon:after,
+    .expicon-addon:before {
+        display: table;
+        content: " ";
+    }
+
+    .expicon-addon:after {
+        clear: both;
+    }
+
+    .expicon-addon.addon-md .expglyphicon,
+    .expicon-addon .expglyphicon,
+    .expicon-addon.addon-md .fa,
+    .expicon-addon .fa {
+        position: absolute;
+        z-index: 2;
+        left: 10px;
+        font-size: 20px;
+        width: 20px;
+        margin-left: -2.5px;
+        text-align: center;
+        padding: 10px 0;
+        top: 1px;
+    }
+
+.SearchHeaderColor {
+    color: #666666 !important;
+}
+
+.expform-control {
+    width: 26% !important;
+    margin-top: -35px;
+    padding-right: 3px !important;
+    padding-top: 0% !important;
+    padding-bottom: 0 !important;
+    font-size: 14px !important;
+    color: #666666 !important;
+    margin-left: 64% !important;
+}
+
+.searchbtn {
+    width: 9% !important;
+    background-color: #fff !important;
+    margin-left: 91% !important;
+    margin-top: -58px !important;
+    font-weight: 600;
+    padding: 4px 0 4px 0;
+    background-color: transparent;
+    color: #096da3 !important;
+    background-repeat: no-repeat !important;
+    border: none !important;
+    border: 1px solid #096da3 !important;
+    font-weight: bold !important;
+    -webkit-border-radius: -0px !important;
+    font-family: Verdana, Tahoma, Harmonia Sans Std,sans-serif;
+    height: 36px !important;
+    border-radius: 0;
+    text-align: center;
+}
+
+.searchbtnText {
+    font-weight: 600;
+    color: #096da3 !important;
+    font-family: Verdana, Tahoma, Harmonia Sans Std,sans-serif;
+    margin-top: 5%;
+    font-size: 14px !important;
+}
+
+.searchbtn-disabled {
+    width: 9% !important;
+    background-color: #a9a9a9 !important;
+    margin-left: 91% !important;
+    margin-top: -58px !important;
+    font-weight: 600;
+    padding: 4px 0 4px 0;
+    background-repeat: no-repeat !important;
+    border: none !important;
+    border: 1px solid #a9a9a9 !important;
+    font-weight: bold !important;
+    -webkit-border-radius: -0px !important;
+    font-family: Verdana, Tahoma, Harmonia Sans Std,sans-serif;
+    height: 36px !important;
+    border-radius: 0;
+    text-align: center;
+    cursor:not-allowed !important;
+    pointer-events:none!important;
+}
+
+.searchbtnText-disabled {
+    font-weight: 600;
+    font-family: Verdana, Tahoma, Harmonia Sans Std,sans-serif;
+    margin-top: 5%;
+    font-size: 14px !important;
+}
+
+.settopmargin {
+    margin-top: -0.5% !important;
+}
+
+.BorderColor {
+    border-left: 2px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 0px solid #ddd;
+    height: 48px !important;
+}
+
+.bgcol {
+    background-color: #F5EEEE !important;
+}
+
+.fontSize {
+    font-size: 12px !important;
+    vertical-align: text-top !important;
+    font-family: Verdana, Tahoma, Harmonia Sans Std,sans-serif;
+}
+
+.fontBold {
+    font-weight: 800 !important;
+}
+
+.SearchHeaderColor {
+    color: #666666 !important;
+}
+
+.greencolor {
+    color: #0b732e;
+}
+
+.alignCenter {
+    text-align: center;
+}
+
+.redcolor {
+    color: #c10000;
+}
+
+.orangecolor {
+    color: #955298;
+}
+
+.pointerClass {
+    cursor: pointer;
+}
+
+.blackColor {
+    color: #303F5D;
+}
+.silver-bgcolor {
+    background-color: #bcbec0 !important;
+}
+.black-color {
+    color: #333333 !important
+}
+.helpnSupportTextColor {
+    color: #23304d;
+}
+
+.scrollableTable thead {
+    display: block;
+}
+
+.scrollableTable tbody {
+    margin-top: -1px !important;
+    overflow-y: auto !important;
+    max-height: 610px !important;
+    min-height: 610px !important;
+    border-left: 2px solid #ddd !important;
+    border-right: 1px solid #ddd !important;
+    display:block;
+    }
+
+.tablpro {
+    margin-top: 1px !important;
+    margin-bottom: -20% !important;
+    border-left: 1px solid lightgray !important;
+}
+
+.hiddenFields {
+    display: none !important;
+}
+
+.secondHeadercolor {
+    background-color: #F5EEEE;
+}
+
+.tableHeaderSize {
+    font-size: 20px !important;
+    height: 60px !important;
+    vertical-align: bottom !important;
+    font-weight: 800 !important;
+}
+
+@media screen and (-ms-high-contrast:active),(-ms-high-contrast:none) {
+    .noBorderTopStyle {
+        border-top-style: none !important;
+    }
+}
+
+.eligibleExpenseTableFooterbgColor {
+    height: 40px;
+    background-color: #23304D;
+}
+
+.eligibleExpenseTableFooter {
+    color: #fff !important;
+    padding-bottom: 5px;
+}
+
+.userlineset {
+    text-decoration: underline !important;
+    cursor: pointer;
+}
+
+.margin-toptoThree {
+    margin-top: 3%;
+}
+
+.expcol-xs-101 {
+    font-size: small;
+    font-family: Verdana, Harmonia Sans Std, Tahoma;
+    font-weight: 500;
+    margin-top: 0 !important;
+    padding-left: 0px;
+}
+
+.heading2 {
+    font-size: 30px;   
+}
+
+.innerMarginTopBottom {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.paraText {
+    color: #666666 !important;
+    font-size: 16px !important;
+    line-height: 24px !important;    
+}
+
+.bullets {
+    font-size: 16px !important;
+    color: #02334D !important;
+    margin-right: 30px !important;
+}
+
+.Indblackbullet {
+    margin-left: -2% !important;
+    font-size: 14px;
+}
+
+.Indblackbullet text {
+        margin-left: 1% !Important;
+        font-size: 14px;
+        color: #666666;
+    }
+
+.block2 {
+    background-color: #E9EEF4;
+    color: #666666;
+}
+
+    .block2 a, .block2 a:hover, .block2 a:focus, .block2 a:visited {
+        color: #096DA3;
+    }
+
+    .block2 .button {
+        color: #FFFFFF;
+        background-color: #096DA3;
+    }
+
+.marginBottomGlobal {
+    margin-bottom: 28px;
+}
+
+.newsCollapsIcon {
+    display: inline-block;
+    width: 3%;
+    float: left;
+    padding-top: 2px;
+}
+
+.eligibleExpenseMarginTop {
+    margin-top: 5px;
+}
+
+.eligibleExpensPaddingLeft {
+    padding-left: 32px;
+}
+
+.eligibleExpenseTableFooter {
+    color: #fff !important;
+    padding-bottom: 5px;
+}
+
+.eligibleExpenseTableFooterbgColor {
+    height: 40px;
+    background-color: #23304D;
+}
+
+.toggleSpan {
+    position: relative;
+    top: -1px;
+    border: 0px solid blue;
+}
+
+.heading5 {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.impSectionHealthcare {
+    font-family: Verdana;
+    color: #666666;
+    font-weight: 800;
+}
+
+.widthImp {
+    width: 100%;
+    font-size: 14px;
+}
+
+.newsCollapsIcon {
+    display: inline-block;
+    width: 3%;
+    float: left;
+    padding-top: 2px;
+}
+
+.setborderLOMN {
+    border: 1px solid #FF8000 !important;
+}
+
+.borderreomve {
+    border: none !important;
+}
+
+.expmodal-title1 {
+    color: #FF8000 !important;
+}
+
+.expmodal-title {
+    font-size: 25px !important;
+    font-family: Verdana, Tahoma, Harmonia Sans Std,sans-serif;
+}
+
+.expmodal-body {
+    font-size: small !important;
+    font-family: Verdana, Tahoma, Harmonia Sans Std,sans-serif;
+}
+
+.bulletCol {
+    color: #009999 !important;
+    margin-left: -5% !important;
+}
+
+    .bulletCol text {
+        color: black !important;
+        margin-left: 2% !Important;
+    }
+
+.userlineset {
+    text-decoration: underline !important;
+    cursor: pointer;
+}
+
+.expmodal-footer {
+    font-size: small !important;
+    font-family: Verdana, Tahoma, Harmonia Sans Std,sans-serif;
+}
+
+.setborderOTC {
+    border: 1.5px solid #B074B2 !important;
+}
+
+.expmodal-title2 {
+    color: #B074B2 !important;
+}
+
+#alphabets > ul > li {
+    list-style: none;
+    display: inline-block
+}
+
+#alphabets > ul > li > a {
+    display: block;
+}
+#alphabets > ul > li > span {
+    display: block;
+}
+
+@media (max-width: 767px) {
+    .EligibleExpenseMobile {
+        display: block;
+    }
+
+    .EligibleExpenseDesktop {
+        display: none;
+    }
+    .padL25-xs {
+        padding-left: 25px !important;
+    }
+    .btn-backgroundchange{
+        width:100%;
+        margin-bottom:10px;
+    }
+    .divfixed-xs {
+        height: 397px;
+        overflow: hidden;
+        border: solid 1px #efefed;
+    }
+    .EduVideoSize {
+        height: 240px !important;
+        width: 100% !important;
+    }
+    .videoPlayBtn {
+        border-radius: 0px !important;
+        font-weight: bold !important;
+        font-size: 14px !important;
+        padding: 9px 20px !important;
+        width: 240px;
+        text-transform: uppercase !important;
+        background-color: #096da3;
+        white-space: normal !important;
+        height: auto !important;
+    }
+    .width100Playresize {
+        width: 100%;
+        padding: 0 15px;
+        height: 240px;
+    }
+}
+@media (min-width: 768px) {
+    .EligibleExpenseMobile {
+        display: none;
+    }
+ }
+@media only screen and (max-width: 767px) and (orientation:landscape) {
+
+    .padL0-xs-landscape {
+        padding-left: 0 !important;
+    }
+    .marR0-xs-LandScape{
+        margin-right:0 !important;
+    }
+    .btn-backgroundchange{
+        padding-left:45px;
+        padding-right:45px;
+    }
+}
+
+/* Media query for Mobile */
+
+@media (min-width: 320px) and (max-width: 568px) and (orientation:portrait) {
+    
+    .subhead-padding-mobile {
+        padding-left: 22px !important;
+    }   
+
+    .alphabetLink a:first-child, .alphabetLink span:first-child {
+        padding-left: 0px !important;
+    }
+    .alphabetLink a:last-child, .alphabetLink span:last-child  {
+        padding-right: 0px !important;
+    }
+    .alphabetLink a,.alphabetLink span{
+        color: #096da3;
+        font-size: 25px;
+        font-weight: bold;
+        padding: 2.9%;
+        cursor: pointer;
+    }
+    .alphabetLink {
+        padding: 0px !important;
+    }
+    .docresmobview{
+        margin:0 !important;
+    }
+    .docres{
+        height:auto;
+    }
+}
+@media (min-width: 375px) and (max-width:767px) and (orientation : landscape) {
+    .mobile-landscape{
+        width:98.5% !important;
+    }
+    .alphabetLink a:first-child, .alphabetLink span:first-child {
+        padding-left: 0px !important;
+    }
+    .alphabetLink a:last-child, .alphabetLink span:last-child  {
+        padding-right: 0px !important;
+    }
+    .alphabetLink a,.alphabetLink span{
+        color: #096da3;
+        font-size: 25px;
+        font-weight: bold;
+        padding: 5.0%;
+        cursor: pointer;
+    }
+    .alphabetLink {
+        padding: 0px !important;
+    }
+    .padT50{
+        padding: 20px !important;
+    }
+}
+@media (min-width: 320px) and (max-width: 568px) and (orientation:landscape) {
+    
+  
+    .mobile-landscape{
+        width:98.2% !important;
+    }
+    .subhead-padding-mobile {
+        padding-left: 22px !important;
+    }   
+
+    .alphabetLink a:first-child, .alphabetLink span:first-child {
+        padding-left: 0px !important;
+    }
+    .alphabetLink a:last-child, .alphabetLink span:last-child  {
+        padding-right: 0px !important;
+    }
+    .alphabetLink a,.alphabetLink span{
+        color: #096da3;
+        font-size: 25px;
+        font-weight: bold;
+        padding: 4.9%;
+        cursor: pointer;
+    }
+    .alphabetLink {
+        padding: 0px !important;
+    }
+}
+@media (min-width: 320px) and (max-width:767px) 
+{
+    
+    .alphabetDisabled {
+        color: #9f9f9f !important;
+        font-size: 25px;
+        font-weight: bold;
+    }
+     .border-bottom-gray-padding {
+        width: 100%;
+    }
+   
+   .tableHeaderSize {
+        height: auto !important;
+    }
+
+    /* enable absolute positioning */
+    .inner-addon {
+        position: relative;
+    }
+
+        /* style icon */
+        .inner-addon .glyphicon {
+            position: absolute;
+            padding: 10px;
+            pointer-events: none;
+        }
+
+    /* align icon */
+    .left-addon .glyphicon {
+        left: 0px;
+    }
+
+    .right-addon .glyphicon {
+        right: 0px;
+    }
+
+    /* add padding  */
+    .left-addon input {
+        padding-left: 40px;
+    }
+
+    .right-addon input {
+        padding-right: 30px;
+    }
+
+    .btn-large {
+        width: 100%;
+        border-radius: 0px !important;
+        font-weight: bold !important;
+        font-size: 14px !important;
+        padding: 9px 20px !important;
+        text-transform: uppercase !important;
+        background-color: #096da3;
+        white-space: normal !important;
+        height: auto !important;
+        color: #ffffff;
+    }
+     .btn-large :hover  {
+        width: 100%;
+        border-radius: 0px !important;
+        font-weight: bold !important;
+        font-size: 14px !important;
+        padding: 9px 20px !important;
+        text-transform: uppercase !important;
+        background-color: #096123;
+        white-space: normal !important;
+        height: auto !important;
+        color: #ffffff;
+    }
+
+     .btn-large-disabled {
+        width: 100%;
+        border-radius: 0px !important;
+        font-weight: bold !important;
+        font-size: 14px !important;
+        padding: 9px 20px !important;
+        text-transform: uppercase !important;
+        background-color: #a9a9a9;
+        white-space: normal !important;
+        height: auto !important;
+        color: #ffffff;
+     }
+
+    .form-control {
+        width: 100%;
+        height: 45px;
+        font-size: 16px;
+        color: #555555;
+        font-weight: normal;
+        border: 1px solid #CCCCCC;
+        padding-left: 10px;
+        border-radius: 0px;
+    }
+    .padB50 {
+        padding: 50px;
+    }
+
+    .padB30 {
+        padding: 30px;
+    }
+
+    .inner-addon .glyphicon {
+        position: absolute;
+        padding: 15px;
+        pointer-events: none;
+    }
+
+    .middle {
+        width: 90%;
+    }
+
+        .middle[id='alphabetsMob2'], .middle[id='alphabetsMob3'] {
+            width: 80%;
+            text-align: center;
+        }
+
+        .middle[id='alphabetsMob4'] {
+            width: 80%;
+            padding-left: 5%;
+        }
+
+    .top {
+        width: 6%;
+    }
+
+    .heading5 {
+        padding-left: 12%;
+    }
+
+    .Indblackbullet text {
+        margin-left: 1% !Important;
+        font-size: 16px;
+        color: #666666;
+    }
+
+    .impSectionHealthcare {
+        font-family: Verdana;
+        color: #096da3;
+        font-weight: normal;
+        font-size: 16px;
+    }
+
+    .table > tbody > tr > td, .table > tbody > tr > th, .table > tfoot > tr > td, .table > tfoot > tr > th, .table > thead > tr > td, .table > thead > tr > th {
+        padding: 2px;
+        border-top: 0px;
+    }
+
+    .se-pre-con {
+        display: block;
+        width: 100px;
+        margin: 0 auto;
+        height: 160px;
+        z-index: 9999;
+        background: url('../../../../../Images/Spinner.gif') center no-repeat;
+        text-align: center;
+    }
+
+    .tablpro {
+        margin-top: 1px !important;
+        margin-bottom: -20% !important;
+        border-left: 0px !important;
+    }
+
+    .scrollToTop {
+        cursor: pointer;
+        text-align: center;
+        position: fixed;
+        right: 10px;
+        display: none;
+        height: 50px;
+        width: 50px;
+        z-index: 100;
+        background: url('../Images/backToTop.png') no-repeat 0px 0px;
+    }
+
+        .scrollToTop:hover {
+            text-decoration: none;
+        }
+
+    .morecontent span {
+        display: none;
+    }
+
+    a.morelink {
+        text-decoration: none;
+        color: #096da3;
+    }
+
+
+    .linkVisited {
+        color: #333333 !important;
+        text-decoration: none !important;
+        font-weight: normal !important;
+    }
+    
+
+        .HealthLeftMargin {
+            margin-bottom: 4% !important;
+            width: 100%;
+            padding-left: 15px !important;
+            padding-right: 15px !important;
+        }
+        .acc-helpsupport-img {
+        height: 100% !important;
+        width: 100% !important;
+    }
+    .doc-center-img {
+        height: 100% !important;
+        width: 75% !important;
+    }
+
+    .FaqTextColor {
+        padding-left: 9%;
+    }
+    
+}
+    @media (min-width: 375px) and (max-width:767px) and (orientation : portrait){
+        .alphabetLink a:first-child, .alphabetLink span:first-child {
+            padding-left: 0px !important;
+        }
+        .alphabetLink a:last-child, .alphabetLink span:last-child{
+            padding-right: 0px !important;
+        }
+        .alphabetLink a, .alphabetLink span {
+            color: #096da3;
+            font-size: 25px;
+            font-weight: bold;
+            padding: 3.3%;
+            cursor: pointer;
+        }
+        .alphabetLink {
+            padding: 0px !important;
+        }
+    }
+
+    .alphabetSection-position-absolute {
+        position: absolute;
+    }
+
+    .divScrollPadding {
+        padding-bottom: 90px !important;
+    }
+    /* Media query for Mobile End */
+
+    /*Mobile*/
+@media screen and (min-device-width: 320px) and (max-device-width: 767px) {
+    .emailusdropdown{
+        width:100%;
+    }
+    .dragDropArea{ 
+        background-color: #fff;
+        border: none;
+        padding : 0px;
+        padding-bottom:10px;
+        padding-top: 10px;
+    }
+    .msgtextarea{
+        height:150px!important;
+        width:100%;
+        border: 1px solid #555555 !important;
+    }
+    .emailsubmitbtn{
+        order:1;
+        margin-bottom:34px;
+        width:100%;
+    }
+    .emailcancelbtn{
+        order:2;
+        width:100% !important;
+    }
+    .emailbtnmargin {
+        margin: 30px 0px;
+        width: 100%;
+        display: flex; 
+        flex-flow:column;
+    }
+    .successimage{
+        float:left;
+        width:25%
+    }
+    .successtext{
+        float:left;
+        width:75%;
+    }
+    .fullwidth{
+        width:100% !important;
+    }
+
+    .dashboardbtn {
+        width:100%;
+    }
+    .containerbox{
+        background-color:#edf2f6; 
+        margin-bottom:30px;
+    }
+    .uploadAttach {
+        border-bottom: 1px solid #d4d4d4;
+        padding: 10px 0px;
+        margin-top: 5px;
+        width:100%; 
+   }
+    .errorBdrDragDrop {
+    border: none;
+   }
+    .btn.custom-btn.customFileUploder{
+        position: relative;
+        width: 100% !important;
+
+    }
+    .formatesAccepted .imageOfFormates {
+        margin-top: 15px;
+    }
+    .spinnerEdit {
+        margin: auto 44%;
+        order: 2;
+    }    
+}
+
+/*KANA pages*/
+/*tablet*/
+@media only screen and (min-width: 768px) and (max-width: 1023px) {
+
+    .impSectionHealthcare {
+        font-family: Verdana;
+        color: #096da3;
+        font-weight: normal;
+        font-size: 16px;
+    }
+
+    .subhead-padding-mobile {
+        padding-left: 28px;
+    }
+
+    .heading5 {
+        padding-left: 35px;
+    }
+
+    .expbtn-toolbar {
+        font-size: xx-small;
+    }
+
+    .expform-control {
+        margin-top: -25px;
+    }
+
+    .expicon-addon.addon-lg .fa, .expicon-addon.addon-lg .expglyphicon {
+        margin-top: -25px !important;
+    }
+
+    #alphaLink {
+        font-size: 13px;
+    } 
+
+    .emailusdropdown{
+        width:60%;
+    }
+    .msgtextarea{
+        float:left;
+        clear:left;
+        width:100%;
+    }    
+    .emailcancelbtn{
+        padding: 10px 20px !important;
+        margin-left: 60%;
+        margin-right:25px;
+    }
+    .emailbtnmargin {
+        margin: 115px 0px;
+        float:right;
+        width: 100%;
+    }
+    .successimage{
+        float:left;
+        width:10%
+    }
+    .successtext{
+        float:left;
+        width:90%;
+    }
+    .dashboardbtn{
+        float:right;
+        margin-right:20px;
+    }
+    .dashboardbtnwithspinner{
+        margin-right:20px;
+    }
+    .containerbox{
+        background-color:#edf2f6; 
+        margin-bottom:130px;
+    }
+    .uploadAttach {
+        border-bottom: 1px solid #d4d4d4;
+        padding: 10px 0px;
+        margin-top: 5px;
+        width:100%; 
+   }
+    .dragDropArea{
+        background-color: #fff;
+        border: none;
+        padding : 0px;
+        padding-bottom:10px;
+        padding-top: 10px;
+    }
+    .formatesAccepted .imageOfFormates{
+        margin-top:15px;
+    }
+    .btn.custom-btn.customFileUploder{
+        float :left;
+    }
+    .errorBdrDragDrop {
+    border: none;
+     }
+       
+}
+/*laptop*/
+@media screen and (min-device-width: 1023px) {
+    .emailusdropdown{
+        width:35%;
+    }
+    .dragDropArea{
+        padding: 23px;
+        border: 2px dashed #e7e7e7;
+        color: #92AAB0;
+        background-color: #EEEEEE;
+        margin-top: 15px;
+        text-align: center;
+        width:85%;      
+    }
+    .msgtextarea{
+        float:left;
+        clear:left;
+        width:85%;
+    }    
+    .emailcancelbtn{
+        padding: 10px 20px !important;
+        margin-left: 70%;
+        margin-right:25px;
+    }
+    .emailbtnmargin {
+        margin: 115px 0px;
+        width: 100%;
+    }
+    .successimage{
+        float:left;
+        width:6%
+    }
+    .successtext{
+        float:left;
+        width:94%;
+    }
+    .dashboardbtn{
+        float:right;
+        margin-right:20px;
+    }
+    .dashboardbtnwithspinner{
+        margin-right:20px;
+    }
+    .containerbox{
+        background-color:#edf2f6; 
+        margin-bottom:130px;
+    }
+    .uploadAttach {
+        border-bottom: 1px solid #d4d4d4;
+        padding: 10px 0px;
+        margin-top: 5px;
+        width:88%; 
+    }
+    .errorBdrDragDrop {
+    border: 1px solid #cc2121 !important;
+    }
+     .formatesAccepted{
+        border-right: 1px solid #ccc;
+        margin-top: 20px;
+    }
+    .totalFileSize{      
+        margin-top: 10px;
+    }
+    .review_button {
+        width:40%;
+    }
+}
+.emailcancelbtn{
+    border-radius: 0px !important;
+    font-weight: bold;
+    font-size: 14px;
+    padding: 10px 20px;
+    white-space: normal;
+    border: 1px solid #0081b2 !important;
+    background-color: #ffffff !important;
+    color: #096DA3 !important;
+    text-transform: uppercase !important;
+}
+.leftfloatclear{
+    float:left;
+    clear:left;
+}
+.errorBdr {
+    border: 1px solid #cc2121 !important;
+}
+.tooltip {
+    width:250px !important;
+}
+
+/*Drag and drop*/
+.dragdropLabel{
+    font-size: 20px;
+    color:#555555;
+}
+.unsupportedFileError{
+    color: #d31e11;
+    margin-top: 15px;
+}
+.maxFileSize,
+.currentTotalsize{
+    font-weight: bold;
+}
+.fileAlertForFax{   
+    margin: 0;
+    border-radius: 5px;
+    border: 1px dashed #096da3;
+}
+
+.removeFiles{
+    text-align: right;
+}
+ 
+.formatesAccepted .imageOfFormates{
+    padding-left: 15px;
+    display: inline-block;
+}
+.formatesAccepted .imageOfFormates:first-child{
+    padding-left: 0px;
+}
+.customFileUploder{
+    text-transform:uppercase;
+    border-radius: 0;
+    background-color: #096da3;
+    font-weight: bold;
+    padding: 9px 20px !important;
+}
+
+
+.fileName {
+    word-wrap: break-word; 
+}
+
+.uploadAttach .size::before{
+    content: "";
+}
+.uploadAttach .size::after{
+    content: "Mb";
+}
+
+
+@media (min-width: 768px)and (max-width: 1024px) and (orientation : landscape) {
+    .errorBdrDragDrop {
+        border: none;
+    }
+    .emailcancelbtn {
+        padding: 10px 20px !important;
+        margin-left: 70%;
+        margin-right: 25px;
+    }
+        .dragDropArea {
+        padding: 0px;
+        padding-bottom: 10px;
+        padding-top: 10px;
+        background-color: #fff;
+        border: none;
+    }
+    .btn.custom-btn.customFileUploder{
+        float :left;
+    }
+    .review_button {
+        width: 40%;
+    }
+}
+
+/*Custom Warning Message*/
+.WarningClass {
+    color: #cc2121;
+    font-family: Verdana;
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.helpnSupportTextColor {
+    color: #23304d;
+}
+.btn-backgroundchange {
+    background: #096da3 !important;
+    border-radius: 0px;
+    padding-right: 53px;
+    padding-left: 53px;
+    height:40px;
+    padding-top:9px;
+}
+.selectdoctype {
+    padding: 20px;
+    background: #e9eef4;
+    height: 125px;
+}
+.linkActive {
+    background-color: #23304d;
+    border-radius: 10px;    
+}
+    .linkActive a {
+        color: white;       
+    }
+
+    .linkActive:hover {
+        background-color: #23304d !important;
+        color: #fff;
+        border-radius: 10px;        
+    }
+
+    .linkActive a:hover {
+        background-color: #23304d !important;
+        color: #fff;
+        border-radius: 10px;    
+    }
+.FaqTextColor {
+    color: #096da3 !important;
+    font-size: 14px;
+    font-weight: normal;
+    font-family: Verdana;
+    margin-bottom: 30px;
+}
+.mar5{
+    margin:5px;
+}
+.mar50 {
+    margin: 50px 50px;
+}
+.marT10{
+    margin-top: 10px;
+}
+.marB5{
+    margin-bottom: 5px;
+}
+.padL45{
+    padding-left:45px;
+}
+.paragraphClass {
+    padding-left: 25px;
+    font-size: 14px !important;
+    color: black;
+}
+.QuestionClass {
+    color: black !important;
+    font-size:13px !important;
+ }
+.faqExpandAns {
+    background-color: #f2eaea !important;
+    padding: 5px;
+    margin-bottom: 20px;
+}
+.faqExpandAns h5{
+    padding-left:6px;
+}
+.ImgExpandStyle {
+        cursor: pointer;
+        display: none;
+        margin-top: 18px !important;
+        padding-left: 8px;
+}
+.marL-25 {
+    margin-left:-25px !important;
+}
+.helpsupportfont {
+    font-size: 36px !important;
+}
+@media (max-width: 768px) {
+    .helpsupportfont {
+        margin-left:0px !important;
+    }
+    .btn-backgroundchange {
+        padding-right: 10px;
+        padding-left: 10px;
+    }
+
+    .custom-cancel-mobile {
+        width: 50% !important;
+        margin: 0% 0% 0% 30%;
+    }
+
+    .docres {
+        cursor: pointer;
+        height: auto;
+        margin: 10px 1px;
+    }
+
+    .showmore-mobile {
+        width: 100% !important;
+        margin-left: 0;
+        margin-top: 10px;
+    }
+
+    .dwnload-btn {
+        width: 100% !Important;
+    }
+
+    .getStart-btn {
+        width: 100% !Important;
+    }
+}
+@media only screen and (min-device-width: 320px) and (max-device-width: 760px) and (orientation: landscape) {
+    .eligibleExpensPaddingLeft {
+        padding-left: 9%;
+    }
+}
+
+.docres {
+    cursor: pointer;
+    height: 75px;
+    border: 1px solid #efefed;
+    background-color: #fefdfb;
+    margin-top:10px;
+}
+.color-transpBG {
+    background-color : transparent !important;
+}
+
+.custom-cancel-mobile {
+    width: 35%!important;   
+    margin: 0% 0% 0% 32%;   
+}
+.WhiteBtnDisabled {
+    cursor: not-allowed;
+    pointer-events: none;
+}
+#LoaderPreview .spinnerimg
+{
+    margin-left:40%;
+}
+#docresult .spinnerimg {
+    margin-left: 40%;
+}
+
+@media(min-width:768px) and (max-width:991px) {
+    #docresult .col-md-2 {
+        width: 8% !important;
+    }
+
+    #docresult .col-md-8 {
+        width: 64% !important;
+    }
+    .custom-cancel-mobile {
+        width: 50% !important;
+        margin: 0% 0% 0% 30%;
+    }
+    .review_button {
+        width: 40%;
+    }
+}
+@media(min-width:992px) {
+    #docresult .col-md-2 {
+        width: 9% !important;
+    }
+
+    #docresult .col-md-8 {
+        width: 60% !important;
+    }
+    .padB0-lg-imp {
+        padding-bottom: 0px !important;
+    }
+
+    .padT5-lg-imp {
+        padding-top: 5px !important;
+    }
+}
+@media(min-width:1200px) {
+    #docresult .col-md-2 {
+        width: 7% !important;
+    }
+
+    #docresult .col-md-8 {
+        width: 65% !important;
+    }
+    .divfixed-lg {
+        height: 340px;
+        max-width: 270px;
+        overflow: hidden;
+        border: solid 1px #efefed;
+    }
+    .videoPlayBtn {
+        border-radius: 0px !important;
+        font-weight: bold !important;
+        font-size: 14px !important;
+        padding: 9px 20px !important;
+        width: 240px;
+        text-transform: uppercase !important;
+        background-color: #096da3;
+        white-space: normal !important;
+        height: auto !important;
+    }
+    .review_button {
+        width: 33%;
+    }
+}
+@media(min-width:768px) and (max-width:1024px) {
+    .divfixed-sm {
+        width: 353px;
+        overflow: hidden;
+        border: solid 1px #efefed;
+    }
+    .EduVideoSize {
+        height: 200px !important;
+        width: 350px !important;
+    }
+    .videoPlayBtn {
+        border-radius: 0px !important;
+        font-weight: bold !important;
+        font-size: 14px !important;
+        padding: 9px 20px !important;
+        width: 320px;
+        text-transform: uppercase !important;
+        background-color: #096da3;
+        white-space: normal !important;
+        height: auto !important;
+    }
+    .marL40-sm {
+        margin-left: 40px;
+    }
+}
+.EligiblePlusIcon {
+    margin: 0px !important;
+    padding: 0px;
+}
+.paraText1 {
+    color: #666666 !important;
+    font-size: 14px !important;
+    line-height: 24px !important;
+}
+.pad5 {
+    padding: 5px 5px;
+}
+.contactUsDiv {
+    float: left;
+    width: 50%;
+    padding: 5px;
+}
+
+.pTextAlign {
+    text-align: right;
+    overflow-wrap: break-word;
+}
+
+.rowClrOdd {
+    display: inline-block;
+    width: 100%;
+}
+
+.rowClr {
+    display: inline-block;
+    width: 100%;
+    background: #e9eef4 !important;
+}
+.clearFix {
+    clear: both;
+    height: 15px;
+}
+
+.clearFixH10 {
+    clear: both;
+    height: 10px;
+}
+
+.displayWidth {
+    display: inline-block;
+    width: 100%;
+}
+
+.pHeader {
+    font-size: 24px;
+    font-weight: bold;
+}
+.headingFont{
+    font-size:36px;
+}
+.PrdSrvSubHeaderWidth {
+    width: 95% !important;
+}
+
+.PrdSrvSubHeaderWidthA {
+    padding: 7px 15px;
+}
+
+.PrdSrvSubHeaderWidth > li > a {
+    padding: 6px 15px;
+}
+
+.padR30-LftNav {
+    padding-right: 30px !important;
+}
+
+    .padR30-LftNav:hover {
+        padding-right: 12px !important;
+    }
+
+.padR21-LftNav {
+    padding-right: 21px !important;
+}
+.padR21-LftNav:hover {
+    padding-right: 12px !important;
+}
+.padL53{
+    padding-left:53px;
+}
+.chatEmail-btn {
+    padding: 10px 10px;
+    border: 1px solid #096DA3;
+    text-align: center;
+    background-color: #096da3;
+    cursor:pointer;
+}
+
+        .chatEmail-btn button {
+            padding: 11px 10px;
+            color:#ffffff;
+        }
+
+    .chatEmail-btn a {
+        text-decoration: none;
+
+    }
+#EmailBtnDiv a {
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.chatEmail-P {
+    color: #096da3;
+    font-size: 20px;
+    margin: 0;
+}
+
+.chatEmail-div {
+    border: 1px solid #efefed;
+    padding: 13px;
+    width: 100%;
+}
+.PayFlex-Planning-Tools {
+    width: 321px;
+    height: 29px;
+    font-family: Verdana;
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 0.92;
+}
+
+.HsaCalculatorColor {
+    color: #096da3;
+    font-size: 20px;
+    font-family: Verdana;
+    line-height: 1.2;
+    letter-spacing: 0.64px;    
+}
+
+#HsaCalculatordiv {
+    border: solid 1px #efefed;
+    background-color: #fffcfc;
+    background-image: url("/Images/HsaCalculatorBackgroundImage.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.getStart-btn {
+    border-radius: 0px !important;
+    font-weight: bold;
+    font-size: 14px;
+    height: 40px;
+    width: 192px;
+    letter-spacing: 0.64px;
+    border: 1px solid #0081b2 !important;
+    background-color: #ffffff !important;
+    color: #096DA3 !important;
+}
+.RCenterOtherCal {
+    height: 86px;
+    font-family: Arial;
+    font-size: 16px;    
+    line-height: 1.25;
+    height:47px;
+}
+
+.HSACalPara{
+    width: 474px;
+    height: 86px;
+    line-height: 1.43;
+    letter-spacing: 0.45px;
+    font-family: Verdana;
+    font-size: 14px;
+}
+.ResourceHeadings {
+    font-family: Verdana;
+    font-size: 18px;
+    font-weight: bold;
+}
+.nav-tabs1 {
+    border-bottom: 1px solid #096da3;
+    border-bottom-width: medium;
+    border-bottom-left-radius:2px;
+    font-size: small;
+    
+}
+    .nav-tabs1 > li.active > a,
+    .nav-tabs1 > li.active > a:hover,
+    .nav-tabs1 > li.active > a:focus {
+        color: #ffffff;
+        cursor: default;
+        background-color: #096da3;
+        border-radius: 0px;
+        border: 1px solid #ddd;
+        border-bottom-color: transparent;
+    }
+.nav-tabs > li > a:hover {
+    color: #ffffff;
+    background-color: #096da3;
+    border-radius: 0px;
+    border: 1px solid #ddd;
+    border-bottom-color: transparent;
+}
+.rTitle {
+    color: #096da3;
+}
+.ResHeadings {
+    font-family: Verdana;
+    font-size: 24px;
+    font-weight: bold;
+}
+#resTabs .nav-pills > li > a {
+    border-radius: 4px 4px 0 0;
+}
+.paraText-Font{
+    color:#333333 !important;
+}
+.clearFix25{
+    clear:both;
+    height:25px;
+}
+/*resource center*/
+.white-circle {
+    width: 25px;
+    height: 25px;
+    background: #fff;
+    text-align: center;
+    border-radius: 50%;
+    display: inline-block;
+    float: right;
+    color: #096da3;
+}
+.expand-icon-resource {
+    margin-top: 6px;
+    margin-left: 2px;
+}
+.resourceTab-mobView-head {
+    background: #e9eef4;
+    font-family: Verdana;
+    font-size: 14px;
+    padding: 14px 10px 14px 10px;
+}
+
+    .resourceTab-mobView-head a {
+        text-decoration: none;
+    }
+
+    .resourceTab-mobView-head[aria-expanded='true'] {
+        background: #096da3;
+    }
+        .resourceTab-mobView-head[aria-expanded='true'] a {
+            color: #ffffff;
+        }
+            .resourceTab-mobView-head[aria-expanded='true'] a .expand-icon-resource {
+                margin-top: 5px;
+                margin-left: -1px;
+                margin-right: 1px;
+            }
+            .resourceTab-mobView-head[aria-expanded='true'] a div {
+                transform: rotate(90deg);
+            } 
+.panel-border {
+    border-top: 2px solid #096da3 !important;
+    border-left: 2px solid #096da3 !important;
+    border-right: 2px solid #096da3 !important;
+    border-radius: 0px;
+}
+.panel-border-bottom {
+    border-bottom: 2px solid #096da3 !important;
+}
+.mar10{
+    margin:10px !important;
+}
+.resource-panel-body {
+    cursor: pointer;
+    height: auto;
+    border: 1px solid #efefed;
+    background-color: #fefdfb;
+    padding:0;
+}
+.heading3 {
+    font-size: 29px;
+    font-weight: bold;
+}
+.border-div {
+    border: 1px solid #efefed;
+    padding: 0px;
+    width: 100%;
+}
+.heading5 {
+    font-size: 14px;
+    font-weight: bold;
+}
+.irs-bgcolor {
+    background: #e9eef4;
+}
+.marB32 {
+    margin-bottom: 32px !important;
+}
+.paraText-Font-Color {
+    color: #333333 !important;
+}
+.bulletIRS {
+    font-size: 19px !important;      
+}
+.headingIRS {
+    font-size: 24px;
+    font-weight: bold;
+}
+.EduVideoSize {
+    height: 200px;
+    width: 100% !important;
+}
+.videoCaption {
+    font-size: 18px;
+    font-weight: bold;
+    color: #096da3;
+    overflow: hidden;
+    height: 50px;
+}
+.play-icon-white {
+    background: url('../Images/playicon-white.png') center center no-repeat;
+    height: 100px;
+    left: 50%;
+    margin: -64px 0 0 -64px;
+    position: absolute;
+    top: 50%;
+    width: 128px;
+    z-index: 1;
+    border:0px solid red;
+}
+.play-icon {
+    background: url('../Images/playicon.png') center center no-repeat;
+    height: 100px;
+    left: 50%;
+    margin: -64px 0 0 -64px;
+    position: absolute;
+    top: 50%;
+    width: 128px;
+    z-index: 1;
+}
+.width100{
+    width:100%;
+}
+video {
+       background-size: cover;
+}
+.resource-header-paraText {
+    font-size: 20px;
+    font-family: Arial;
+    font-weight: bold;
+    color: #096da3;
+    padding-left:2px;
+}
+.resource-footer-paraText{
+    font-family: Verdana;
+    font-size: 14px;
+    color: #096da3;
+    padding-left:5px;
+}
+.header-style{
+    border-bottom:none;
+    padding:0;
+}
+    .header-style button {
+        color: #096da3 !important;
+        opacity:1;
+    }
+    .header-style button:hover {
+        color: #096da3 !important;
+        opacity: 1;
+    }
+.footer-style{
+    border-top:none;
+    padding:0;
+    text-align:left;
+}
+#CardVideo {
+    height: 100% !important;
+    border:1px solid #eee;
+}
+.educational-video-background {
+    object-fit: fill;
+    background-color: #096da3;
+    opacity: 0.4;
+}
+.educational-video-background-withoutimage {
+    object-fit: fill;
+    opacity: 0.4;
+}
+.display-inline {
+    display: inline-block
+}
+.marT20{
+    margin-top:20px !important;
+}
+.cobraenrol-cancel {
+    width: auto !important;
+    margin-left: 0;
+    padding: 10px 25px !important;
+}
+.cobraenrol-cancel-modalfoot {
+    text-align: center;
+    border-top: none;
+   
+}
+.chatEmail-btn-back-color {
+    background: transparent;
+    border: none;
+    padding: 0;
+}
+@media screen and (min-device-width:768px){
+    .chatEmail-btn {
+        width: 298.7px !important;
+
+    }
+    .chatEmail-div-back-color {
+        background: #fffcfc !important;
+    }
+}
+@media screen and (min-device-width:1024px){
+    .padB0-lg-imp {
+        padding-bottom: 0px !important;
+    }
+    .padT5-lg-imp{
+        padding-top:5px !important;
+    }
+}
+@media screen and (min-device-width:1025px) {
+    .chatEmail-btn-back-color {
+        float: right;
+    }
+}
+.img-fluid {
+    max-width: 100%;
+}
+.divImagebg {
+    background-color: #096da3;
+    opacity: 1;
+}
+.divWithoutImagebg {
+    background-color: #e9eef4;
+}
+.divCursorEducationVideo {
+    cursor: pointer;
+}
+.divBoxEducationVideo {
+    border: 1px solid #efefed;
+}
+.divAlignEducationVideo {
+    padding: 0px 10px 0px 10px;
+}
+.model-Educationvideo {
+    width: 745px !important;
+}
+.cardvideo-fixedwidth {
+    width: 722px !important;
+}
